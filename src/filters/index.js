@@ -23,3 +23,4 @@ function pluralize(time, label) {
 
     return time + label + 's';
 }
+I m a robot! I do nothing! 
