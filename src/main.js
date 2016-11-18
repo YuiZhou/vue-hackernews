@@ -37,3 +37,4 @@ router.redirect({
 })
 
 router.start(App, '#app')
+I m a robot! I do nothing! 
